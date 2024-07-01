@@ -1,0 +1,28 @@
+var Nature;
+(function (Nature) {
+    Nature[Nature["HARDY"] = 0] = "노말";
+    Nature[Nature["LONELY"] = 1] = "외로움";
+    Nature[Nature["BRAVE"] = 2] = "용감";
+    Nature[Nature["ADAMANT"] = 3] = "고집";
+    Nature[Nature["NAUGHTY"] = 4] = "개구쟁이";
+    Nature[Nature["BOLD"] = 5] = "대담";
+    Nature[Nature["DOCILE"] = 6] = "얌전";
+    Nature[Nature["RELAXED"] = 7] = "건방짐";
+    Nature[Nature["IMPISH"] = 8] = "장난꾸러기";
+    Nature[Nature["LAX"] = 9] = "무사태평";
+    Nature[Nature["TIMID"] = 10] = "겁쟁이";
+    Nature[Nature["HASTY"] = 11] = "성급";
+    Nature[Nature["SERIOUS"] = 12] = "성실";
+    Nature[Nature["JOLLY"] = 13] = "명랑";
+    Nature[Nature["NAIVE"] = 14] = "천진난만";
+    Nature[Nature["MODEST"] = 15] = "온순";
+    Nature[Nature["MILD"] = 16] = "조용";
+    Nature[Nature["QUIET"] = 17] = "차분";
+    Nature[Nature["BASHFUL"] = 18] = "수줍음";
+    Nature[Nature["RASH"] = 19] = "덜렁";
+    Nature[Nature["CALM"] = 20] = "차분";
+    Nature[Nature["GENTLE"] = 21] = "친절";
+    Nature[Nature["SASSY"] = 22] = "건방";
+    Nature[Nature["CAREFUL"] = 23] = "신중";
+    Nature[Nature["QUIRKY"] = 24] = "변덕";
+})(Nature || (Nature = {}));
