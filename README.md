@@ -1,3 +1,5 @@
+![image](https://github.com/heeseung0/RogueDex_Chrome/assets/20167854/a3e463d7-fa2d-4527-b96f-ea621f500463)
+
 ### 크롬 기준 사용법
 1. 확장 프로그램 관리 - 우측 상단 "개발자 모드" 활성화
 2. 좌측 상단 "압축해제된 확장 프로그램을 로드합니다." 클릭
